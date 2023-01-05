@@ -1,13 +1,9 @@
 ### Hi there 👋! 
 ### I'm Edineuda Teixeira, student of full stack web development, UI/UX Design and EaD tutor on programming and technology.
 
-#### 🔭 I’m currently working on distance education and interface design.
 #### 🌱 I’m currently learning HTML5, CCS3, JavaScript (ES6+), React, Node.js, Python (Django and Flask), SQL and C++.
 #### 👯 I’m looking to collaborate on **programming projects for web, data science, AI, systems and game development**.
-#### 🤔 I’m looking for help with career progression opportunities to get hired to work as a developer.
 #### 💬 Ask me about **technology, systems and game development, ui/ux design, career and etc - I'll be happy to help :)**
-#### ⚡ Fun fact **I love games, geek culture and animes**
-#### ✨ Soft Skills: I like to work in a team, I communicate well, I feel confident to build software products and services.
 
 </br>
 
@@ -15,7 +11,6 @@
 <div align="center">
     <a href="https://github.com/Edineuda">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edineuda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=prs"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Edineuda&theme=dracula" alt="Edineuda" />
 </div>
 
 </br>
