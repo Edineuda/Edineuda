@@ -5,13 +5,15 @@
 #### 👯 I’m looking to collaborate on **programming projects for web, data science, AI, systems and game development**.
 #### 💬 Ask me about **technology, systems and game development, ui/ux design, career and etc - I'll be happy to help :)**
 
-<h3 align="left"> 📊 Métricas do Github: </h3>
+</br>
+
+<h3 align="left"> 📊 Github metrics: </h3>
 <div align="center">
     <a href="https://github.com/Edineuda">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edineuda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=prs"/>
 </div>
 
-<h3 align="left"> 🛠️ Algumas linguagens e ferramentas que eu uso: </h3>
+<h3 align="left"> 🛠️ Some languages and tools I use: </h3>
 <div style="display: inline_block" align="center"><br>
     <img align="center" alt="HTML" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" title="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -26,9 +28,7 @@
     <img align="center" alt="Photoshop" title="Photoshop" height="30" width="180" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
 </div>
 
-</br>
-
-<h3 align="left"> 🔗 Me encontre no: </h3>
+<h3 align="left"> 🔗 Find me at: </h3>
 <div align="center">
     <a href="https://discord.gg/Neuda Teixeira#9545" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
     <a href = "mailto:contatoedineuda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
