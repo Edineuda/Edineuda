@@ -6,7 +6,7 @@
 #### 👯 I’m looking to collaborate on **programming projects for web, data science, AI, systems and game development**.
 #### 🤔 I’m looking for help with career progression opportunities to get hired to work as a developer.
 #### 💬 Ask me about **technology, systems and game development, ui/ux design, career and etc - I'll be happy to help :)**
-#### ⚡ Fun fact **I love games, geek culture and anime🥋**
+#### ⚡ Fun fact **I love games, geek culture and animes**
 #### ✨ Soft Skills: I like to work in a team, I communicate well, I feel confident to build software products and services.
 
 </br>
