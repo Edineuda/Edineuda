@@ -5,7 +5,6 @@
 #### 👯 I’m looking to collaborate on **programming projects for web, data science, AI, systems and game development**.
 #### 💬 Ask me about **technology, systems and game development, ui/ux design, career and etc - I'll be happy to help :)**
 
-</br>
 
 <h3 align="left"> 📊 Github metrics: </h3>
 <div align="center">
