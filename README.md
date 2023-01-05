@@ -1,4 +1,6 @@
-### Hi there 👋! Sou a Edineuda Teixeira, estudante de Desenvolvimento full stack para web, UI/UX Design e criadora de conteúdo sobre programação e tecnologia!
+### Hi there 👋! I'm Edineuda Teixeira, student of full stack web development, UI/UX Design and EaD tutor on programming and technology.
+
+</br>
 
 ### - 🔭 I’m currently working on distance education and interface design.
 ### - 🌱 I’m currently learning programming in HTML5, CCS3, JavaScript (ES6+), React, Node.js, Python (Django and Flask), SQL and C++.
