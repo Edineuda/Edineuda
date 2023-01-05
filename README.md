@@ -5,15 +5,11 @@
 #### 👯 I’m looking to collaborate on **programming projects for web, data science, AI, systems and game development**.
 #### 💬 Ask me about **technology, systems and game development, ui/ux design, career and etc - I'll be happy to help :)**
 
-</br>
-
 <h3 align="left"> 📊 Métricas do Github: </h3>
 <div align="center">
     <a href="https://github.com/Edineuda">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edineuda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=prs"/>
 </div>
-
-</br>
 
 <h3 align="left"> 🛠️ Algumas linguagens e ferramentas que eu uso: </h3>
 <div style="display: inline_block" align="center"><br>
