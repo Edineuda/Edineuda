@@ -14,7 +14,8 @@
 <h3 align="left"> 📊 Métricas do Github: </h3>
 <div align="center">
     <a href="https://github.com/Edineuda">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Edineuda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=prs"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edineuda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=prs"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Edineuda&theme=dracula" alt="Edineuda" />
 </div>
 
 </br>
